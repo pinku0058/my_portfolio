@@ -1,0 +1,99 @@
+body{
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.heading{
+    display: inline-block;
+}
+#profile-img{  
+    height: 200px;
+    width: 200px;
+    border: 5px solid white;
+    border-radius: 50%;
+    display: flex;
+}
+#about{
+    background-color: #333;
+    color: #fff;
+    
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+section{
+    padding: 10px;
+}
+.education{
+    background-color: #333;
+    color: #fff;
+
+}
+.qualification{
+    margin-top: 2rem;
+     display: flex;
+     justify-content: center;
+
+}
+.card{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+}
+#skills{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #333;
+    color: #fff;
+}
+#skills img{
+    height: 121px;
+}
+.card-body {
+    height: 200px;
+    width: 200px;
+}
+.card-body h5{
+    font-size: 1rem;
+}
+.card-body a{
+    font-size: 1rem;
+}
+.card-text{
+    font-size: 0.8rem;
+}
+.project-sec{
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Project2 img{
+    height: 121px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px; 
+}
